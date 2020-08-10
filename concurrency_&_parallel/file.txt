@@ -1,0 +1,1 @@
+Concurrency dapat melibatkan berbagai tugas yang berjalan dan memiliki waktu yang tumpang tindih. Di sisi lain, parallel melibatkan tugas yang berbeda yang berjalan secara bersamaan dan cenderung memiliki waktu mulai dan berakhir yang sama.
