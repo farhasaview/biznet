@@ -1,1 +1,1 @@
-service apache2 status
+ps httpd | wc -l
