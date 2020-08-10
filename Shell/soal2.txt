@@ -1,0 +1,5 @@
+jika diluar di directory tujuan
+find 'mig33/inner.folder/' -name '*.txt' -exec sh -c 'mv "$0" "${0%.txt}.dat"' {} \;
+
+atau jika sudah di dalam directoy tujuan
+find . -name '*.txt' -exec sh -c 'mv "$0" "${0%.txt}.dat"' {} \;
